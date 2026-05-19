@@ -1,7 +1,6 @@
 ## Hi, I'm Ohmmieq ✨
 
-🧠IT student at Kabarak University<br/>
-I develop and maintain websites<br/>
+🧠Systems & IT Support Engineer specializing in backend infrastructure automation, relational database optimization, and secure network diagnostic deployments.
 
 
 # 💻 Tech Stack:
